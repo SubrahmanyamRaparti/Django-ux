@@ -1,0 +1,7 @@
+# Lastest versions
+# django==5.0.3
+# djangorestframework==3.14.0
+
+# Old versions
+django==2.2
+djangorestframework==3.9.2
